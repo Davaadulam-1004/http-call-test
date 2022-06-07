@@ -1,0 +1,19 @@
+{
+  "name": "http-call-test",
+  "version": "1.0.0",
+  "main": "src/test.ts",
+  "scripts": {
+    "start": "tsc && node ./dist/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-get": "^0.5.10",
+    "http-params": "^1.0.1",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "description": ""
+}
